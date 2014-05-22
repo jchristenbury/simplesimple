@@ -9,6 +9,17 @@ Typography
 Internal Customizaton using the Theme Options Panel
 Speed
 
+TO DO:
+Post thumbnails;
+Search results;
+Archives;
+
+
 = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+
+
+5.22.2014
+Rewrote header.php;
+Rewrite index.php to include all current functions & features using output only. Very little markup;
 
 
